@@ -52,12 +52,12 @@ const FeatureCard = (card: FeatureCards) => {
         <h4
           className={`${montserrat.className}items-center text-start mb-3  font-normal text-[20px] text-myDark my-3 hover:text-blue-500`}
         >
-          Loudest à la Madison #1 (L'integral)
+          Loudest à la Madison #1 (L&apos;integral)
         </h4>
         <h4
           className={`${montserrat.className}items-center text-start font-normal text-sm lg:text-[14px] text-myGrey mb-4 hover:text-blue-500`}
         >
-          We focus on ergonomics and meeting you where you work. It's only a
+          We focus on ergonomics and meeting you where you work. It&apos;s only a
           keystroke away.
         </h4>
         <div className="flex justify-between text-xs text-myGrey">

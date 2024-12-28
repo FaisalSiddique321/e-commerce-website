@@ -85,7 +85,7 @@ export default function VisitSection() {
         <h5
           className={`${montserrat.className} font-bold text-base text-myDark mt-5 hover:text-blue-500`}
         >
-          WE Can't WAIT TO MEET YOU
+          WE Can&apos;t WAIT TO MEET YOU
         </h5>
         <h2
           className={`${montserrat.className} font-normal text-3xl lg:text-5xl text-myDark mt-4 hover:text-blue-500`}
